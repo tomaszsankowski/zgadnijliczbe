@@ -1,0 +1,10 @@
+C:\Users\sanko\Desktop\zgadnijliczbę\zgadnijliczbę\obj\Debug\zgadnijliczbę.csprojAssemblyReference.cache
+C:\Users\sanko\Desktop\zgadnijliczbę\zgadnijliczbę\obj\Debug\zgadnijliczbę.Form1.resources
+C:\Users\sanko\Desktop\zgadnijliczbę\zgadnijliczbę\obj\Debug\zgadnijliczbę.Properties.Resources.resources
+C:\Users\sanko\Desktop\zgadnijliczbę\zgadnijliczbę\obj\Debug\zgadnijliczbę.csproj.GenerateResource.cache
+C:\Users\sanko\Desktop\zgadnijliczbę\zgadnijliczbę\obj\Debug\zgadnijliczbę.csproj.CoreCompileInputs.cache
+C:\Users\sanko\Desktop\zgadnijliczbę\zgadnijliczbę\bin\Debug\zgadnijliczbę.exe.config
+C:\Users\sanko\Desktop\zgadnijliczbę\zgadnijliczbę\bin\Debug\zgadnijliczbę.exe
+C:\Users\sanko\Desktop\zgadnijliczbę\zgadnijliczbę\bin\Debug\zgadnijliczbę.pdb
+C:\Users\sanko\Desktop\zgadnijliczbę\zgadnijliczbę\obj\Debug\zgadnijliczbę.exe
+C:\Users\sanko\Desktop\zgadnijliczbę\zgadnijliczbę\obj\Debug\zgadnijliczbę.pdb
